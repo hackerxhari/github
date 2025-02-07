@@ -268,3 +268,4 @@ Work log entry 301-1
 Work log entry 301-2
 Work log entry 301-3
 Work log entry 301-4
+Work log entry 300-1
