@@ -273,3 +273,4 @@ Work log entry 300-2
 Work log entry 300-3
 Work log entry 300-4
 Work log entry 300-5
+Work log entry 300-6
