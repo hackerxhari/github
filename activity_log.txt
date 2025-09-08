@@ -1099,3 +1099,4 @@ Work log entry 87-1
 Work log entry 87-2
 Work log entry 87-3
 Work log entry 87-4
+Work log entry 87-5
